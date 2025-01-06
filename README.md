@@ -4,4 +4,4 @@ Part of my role at Likewise is designing and owning the reporting of all non-fin
 
 Below is an example of one KPI that was sent out to our business partners.
 
-![My Image](likewise_partner_replay.png)
+![My Image](likwise_partner_replay.png)
